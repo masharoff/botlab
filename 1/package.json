@@ -1,0 +1,22 @@
+{
+  "name": "botlab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Valerii-Poliakov/BotLab.git"
+  },
+  "author": "Valerii Poliakov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Valerii-Poliakov/BotLab/issues"
+  },
+  "homepage": "https://github.com/Valerii-Poliakov/BotLab#readme",
+  "dependencies": {
+    "botbuilder": "^3.15.0"
+  }
+}
